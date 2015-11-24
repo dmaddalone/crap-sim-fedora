@@ -21,3 +21,4 @@ This repository contains **Dockerfile** of a [Craps Simulator](http://github.com
 ### Usage
 
     docker run -it --rm dmaddalone/crap-sim-fedora
+	docker run -it --rm dmaddalone/crap-sim-fedora bash
